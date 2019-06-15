@@ -50,7 +50,7 @@ USER_AGENT_LIST = [
 ]
 
 USER_AGENT = random.choice(USER_AGENT_LIST)
-Referer = 'https://www.meitulu.com/item/17837.html'
+
 
 BOT_NAME = 'scrapydemo'
 
